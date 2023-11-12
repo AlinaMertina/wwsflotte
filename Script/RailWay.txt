@@ -1,0 +1,6 @@
+spring_profiles_active=prod
+PROD_DB_HOST=monorail.proxy.rlwy.net
+PROD_DB_PORT=45307
+PROD_DB_NAME=railway
+PROD_DB_PASSWORD=15FdF*CB51GFd*B12F-CFc2aA11Ec3*a
+PROD_DB_USERNAME=postgres
