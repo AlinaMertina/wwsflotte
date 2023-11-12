@@ -1,9 +1,9 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://monorail.proxy.rlwy.net:45307/railway
-    username: postgres
-    password: 15FdF*CB51GFd*B12F-CFc2aA11Ec3*a
-  name: ecommerceDB
-  sql:
-    init:
-      mode: always # vous ne ferez pas cela en prod, je le fais juste à des fins de démo
+# spring:
+#   datasource:
+#     url: jdbc:postgresql://monorail.proxy.rlwy.net:45307/railway
+#     username: postgres
+#     password: 15FdF*CB51GFd*B12F-CFc2aA11Ec3*a
+#   name: ecommerceDB
+#   sql:
+#     init:
+#       mode: always # vous ne ferez pas cela en prod, je le fais juste à des fins de démo
